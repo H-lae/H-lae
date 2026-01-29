@@ -1,6 +1,6 @@
 <div align="left-end">
 
-# Hello, I am Nyan Linn Htet 👨‍💻
+# Hello, I am Hsu Lae Yee 👨‍💻
 **Web Developer | NCC Level 5 Diploma in Computing**
 
 ---
@@ -8,7 +8,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left-end">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,php,py,cs,nodejs,mysql,mongodb,figma,git&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,cs,mysql,figma,git&perline=10" />
 </p>
 
 ---
@@ -21,11 +21,11 @@
 ### 🌐 Connect With Me
 
 <p align="left-end">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/nyan-linn-htet-50542a378/">
+  <a href="https://www.linkedin.com/in/hsu-lae-yee-5638b3377/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
   &nbsp;
-  <a href="mailto:shosuke48@gmail.com">
+  <a href="mailto:hsulaeyee922@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
 </p>
