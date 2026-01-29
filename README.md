@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="left-end">
 
-<!--
-**H-lae/H-lae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I am Nyan Linn Htet 👨‍💻
+**Web Developer | NCC Level 5 Diploma in Computing**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+<p align="left-end">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,php,py,cs,nodejs,mysql,mongodb,figma,git&perline=10" />
+</p>
+
+---
+
+### 🎓 Education
+**NCC Level 5 Diploma in Computing**
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left-end">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/nyan-linn-htet-50542a378/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  &nbsp;
+  <a href="mailto:shosuke48@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+</p>
+</div>
